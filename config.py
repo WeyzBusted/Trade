@@ -1,7 +1,7 @@
-token = "5988517048:AAFFoCOMNnjXDtUnihNOL7b1ooTuGbTPvSc"
-admins = [506087442,785618865]
-vyplaty = '-1001820229264'
-bot_username = "IgrovoiBotRoBot"
+token = "6100612911:AAE0t2xSxYVCMWbXd3mgF-dsouUOEx1dGdE"
+admins = [5994508851]
+vyplaty = '-1001821283857'
+bot_username = "TradeVortex_bot"
 adminvxod = "Создатель"
 worker = "Доступ"
 otzyvy = ""
